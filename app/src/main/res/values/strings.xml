@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LayoutDesign</string>
+    <string name="signup">SignUp</string>
+    <string name="enter_mail">Enter Mail</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_phone_no">Enter Phone No</string>
+    <string name="submit">Submit</string>
+    <string name="signup_image">signup_image</string>
+    <string name="home_icon">home-icon</string>
+    <string name="fourth">FOURTH</string>
+    <string name="second">SECOND</string>
+    <string name="third">THIRD</string>
+    <string name="first">FIRST</string>
+    <string name="pin_pass">pinPassImage</string>
+    <string name="Lorem_Ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="avatar">avatar</string>
+    <string name="signup_photo">Signup Photo</string>
+    <string name="name">Name</string>
+</resources>
