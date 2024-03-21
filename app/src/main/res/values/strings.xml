@@ -16,4 +16,8 @@
     <string name="avatar">avatar</string>
     <string name="signup_photo">Signup Photo</string>
     <string name="name">Name</string>
+    <string name="cards">CARDS</string>
+    <string name="two_minion">two_minion</string>
+    <string name="two_minions">Two Minions</string>
+    <string name="one_minion">One Minion</string>
 </resources>
